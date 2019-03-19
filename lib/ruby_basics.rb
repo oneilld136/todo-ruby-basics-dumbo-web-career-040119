@@ -15,7 +15,7 @@ def greeting (hello,name)
 end
 
 def return_a_value (nice)
-return_a_value
+return
 end
 
 def last_evaluated_value (expert)
