@@ -14,11 +14,11 @@ def greeting (hello,name)
 
 end
 
-def return_a_value
-
+def return_a_value (nice)
+return_a_value
 end
 
-def last_evaluated_value
+def last_evaluated_value (expert)
 
 end
 
