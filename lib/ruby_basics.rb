@@ -1,5 +1,5 @@
 def division(num1, num2)
-num2/num1=6
+num2/2=6
 end
 
 def assign_variable(value)
