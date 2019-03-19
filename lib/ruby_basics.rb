@@ -10,7 +10,7 @@ def argue
 argue
 end
 
-def greeting
+def greeting (hello,name)
 
 end
 
