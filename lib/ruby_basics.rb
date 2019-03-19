@@ -1,6 +1,7 @@
 def division(num1, num2)
   num1=12
-  num2/num1=6
+  num2/num1
+  return
 end
 
 def assign_variable(value)
@@ -14,12 +15,12 @@ end
 def greeting (hello,name)
 end
 
-def return_a_value ("Nice")
-  return
+def return_a_value
+  "Nice"
 end
 
-def last_evaluated_value("expert")
-  return
+def last_evaluated_value
+  "expert"
 end
 
 def pizza_party(cheese)
