@@ -14,12 +14,12 @@ def greeting (hello,name)
 
 end
 
-def return_a_value
-return_a_value="Nice"
+def return_a_value (x)
+x="Nice"
 end
 
-def last_evaluated_value
-  last_evaluated_value="expert"
+def last_evaluated_value(y)
+  y="expert"
 
 end
 
